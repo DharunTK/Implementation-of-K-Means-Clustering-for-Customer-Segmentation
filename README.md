@@ -70,6 +70,8 @@ RegisterNumber:  25003938
 ```
 
 ## Output:
+https://github.com/DharunTK/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/50eda86e3ae4a8c0c8c7b2f8c737ad9311136052/Screenshot%202026-03-16%20101850.png
 
+https://github.com/DharunTK/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/50eda86e3ae4a8c0c8c7b2f8c737ad9311136052/Screenshot%202026-03-16%20101843.png
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
